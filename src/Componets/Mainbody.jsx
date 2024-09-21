@@ -88,7 +88,7 @@ const sliderData = [
         title: '"RESIN ART WITH A TOUCH OF INDIVIDUALITY."',
         subtitle: "Discover, Shop, and Adorn Your Space with Unique Resin Creations",
         description: 'Discover the Beauty of Resin Art.',
-        image: "src/Componets/image/slider-1.webp"
+        image: "https://raw.githubusercontent.com/AyushiChitaliya/resin_art/refs/heads/main/src/Componets/image/slider-1.webp"
     },
     {
         title: '"EVERY PIECE, A HANDMADE MASTERPIECE."',
