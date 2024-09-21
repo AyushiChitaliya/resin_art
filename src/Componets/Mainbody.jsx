@@ -263,7 +263,7 @@ function Mainbody() {
     return (
         <div style={{ overflow: 'hidden' }}>
             {/* <Navbar /> */}
-            <CustomSlider />
+            {/* <CustomSlider /> */}
             <BestSellerProducts />
             <AboutUs />
             <FacilityContainer sx={{ backgroundColor: 'white' }}>
