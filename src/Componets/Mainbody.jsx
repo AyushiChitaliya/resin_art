@@ -88,19 +88,19 @@ const sliderData = [
         title: '"RESIN ART WITH A TOUCH OF INDIVIDUALITY."',
         subtitle: "Discover, Shop, and Adorn Your Space with Unique Resin Creations",
         description: 'Discover the Beauty of Resin Art.',
-        image: "src/Componets/image/slider-1.webp"
+        image: "./src/Componets/image/slider-1.webp"
     },
     {
         title: '"EVERY PIECE, A HANDMADE MASTERPIECE."',
         subtitle: 'Find Your Perfect Handmade Resin Art Piece',
         description: 'Capture the Cosmos.',
-        image: "src/Componets/image/slider-2.jpg",
+        image: "./src/Componets/image/slider-2.jpg",
     },
     {
         title: '"HANDCRAFTED RESIN WONDERS, ONE OF A KIND."',
         subtitle: "Shop Unique Resin Art Pieces, Crafted by Hand",
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
-        image: "src/Componets/image/slider-3.jpeg",
+        image: "./src/Componets/image/slider-3.jpeg",
     }
 ];
 
