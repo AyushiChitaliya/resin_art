@@ -94,13 +94,13 @@ const sliderData = [
         title: '"EVERY PIECE, A HANDMADE MASTERPIECE."',
         subtitle: 'Find Your Perfect Handmade Resin Art Piece',
         description: 'Capture the Cosmos.',
-        image: "https://github.com/AyushiChitaliya/resin_art/blob/main/src/Componets/image/slider-2.jpg",
+        image: "https://raw.githubusercontent.com/AyushiChitaliya/resin_art/refs/heads/main/src/Componets/image/slider-2.jpg",
     },
     {
         title: '"HANDCRAFTED RESIN WONDERS, ONE OF A KIND."',
         subtitle: "Shop Unique Resin Art Pieces, Crafted by Hand",
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
-        image: "https://github.com/AyushiChitaliya/resin_art/blob/main/src/Componets/image/slider-3.jpeg",
+        image: "https://raw.githubusercontent.com/AyushiChitaliya/resin_art/refs/heads/main/src/Componets/image/slider-3.jpeg",
     }
 ];
 
