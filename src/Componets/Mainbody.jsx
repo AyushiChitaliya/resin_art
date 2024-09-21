@@ -3,8 +3,6 @@ import Navbar from './Navbar';
 // import Slider from 'react-slick';
 import { Box, Button, Typography, Card, CardMedia, CardContent } from '@mui/material';
 import { styled } from '@mui/system';
-import 'slick-carousel/slick/slick.css';
-import 'slick-carousel/slick/slick-theme.css';
 import best_seller_1 from '../Componets/image/best_seller_1.jpg';
 import best_seller_2 from '../Componets/image/best_seller_2.jpg';
 import best_seller_3 from '../Componets/image/best_seller_3.jpg';
