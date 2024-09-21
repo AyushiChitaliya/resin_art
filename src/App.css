@@ -1,0 +1,29 @@
+*{
+  text-decoration: none;
+}
+body{
+  font-family: '"Kaushan Script", cursive';
+}
+.FavoriteIcon{
+  color: red !important;
+}
+.HelpIcon{
+  background-color: black !important;
+}
+.font{
+  font-family: '"Kaushan Script", cursive',
+}
+.demo{
+  color: red;
+  background-color: red;
+}
+.white_space{
+  height: 50px;
+}
+.white_space2{
+  height: 80px;
+}
+.btn:hover{
+  background-color: gray !important;
+  color: white !important;
+}
