@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from './Navbar';
-import Slider from 'react-slick';
+// import Slider from 'react-slick';
 import { Box, Button, Typography, Card, CardMedia, CardContent } from '@mui/material';
 import { styled } from '@mui/system';
 import 'slick-carousel/slick/slick.css';
@@ -115,27 +115,27 @@ const settings = {
     autoplaySpeed: 3000,
 };
 
-const CustomSlider = () => (
-    <Slider {...settings}>
-        {sliderData.map((slide, index) => (
-            <SlideContainer className='demo' key={index} sx={{ backgroundImage: `url(${slide.image})` }}>
-                <Overlay />
-                <Content>
-                    <Typography variant="h6" component="div" gutterBottom>
-                        {slide.subtitle}
-                    </Typography>
-                    <Typography variant="h2" component="div" gutterBottom sx={{ fontFamily: '"Kaushan Script", cursive' }}>
-                        {slide.title}
-                    </Typography>
-                    <Typography variant="body1" component="div" gutterBottom>
-                        {slide.description}
-                    </Typography>
-                    <CustomButton variant="contained" className='btn'>Shop Collection</CustomButton>
-                </Content>
-            </SlideContainer>
-        ))}
-    </Slider>
-);
+// const CustomSlider = () => (
+//     <Slider {...settings}>
+//         {sliderData.map((slide, index) => (
+//             <SlideContainer className='demo' key={index} sx={{ backgroundImage: `url(${slide.image})` }}>
+//                 <Overlay />
+//                 <Content>
+//                     <Typography variant="h6" component="div" gutterBottom>
+//                         {slide.subtitle}
+//                     </Typography>
+//                     <Typography variant="h2" component="div" gutterBottom sx={{ fontFamily: '"Kaushan Script", cursive' }}>
+//                         {slide.title}
+//                     </Typography>
+//                     <Typography variant="body1" component="div" gutterBottom>
+//                         {slide.description}
+//                     </Typography>
+//                     <CustomButton variant="contained" className='btn'>Shop Collection</CustomButton>
+//                 </Content>
+//             </SlideContainer>
+//         ))}
+//     </Slider>
+// );
 
 const BestSellerProducts = () => {
     const products = [
